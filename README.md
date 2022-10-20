@@ -2,10 +2,7 @@
 
 ####  my name is Asada Phaohom from Thailand!
 
-<img src="www.mypetsies.com/blog/app/uploads/2016/09/edfsaf.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
-
-
+![IMAGE ALT TEXT HERE](https://i.kym-cdn.com/photos/images/original/001/384/545/7b9.jpg)
 
 > Keep Learning. Keep Glowing!
 
