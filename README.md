@@ -1,8 +1,10 @@
-## Hello Everyone my name's Asada Phaohom from Thailand 🇹🇭👋
+### Hello Everyone my name is Asada Phaohom from Thailand 🇹🇭👋
 
 ### [![I'm still Learning](https://skillicons.dev/icons?i=js,html,css,ts,vscode,react,py,mysql,mongodb)](https://skillicons.dev)
 
-##### I'm still looking to learning for more 
+[![IMAGE ALT TEXT HERE](https://www.mypetsies.com/blog/app/uploads/2016/09/edfsaf.jpg)]
+
+> Keep Learning. Keep Glowing!
 
 <!--
 **watripledouble/watripledouble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
