@@ -1,6 +1,6 @@
 ## Hello Everyone 👋
 
-#### my name is Asada Phaohom from Thailand!
+#### My name is Asada Phaohom BRO!!!
 
 #### i'm still learning about coding 💬
 
