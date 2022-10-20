@@ -2,9 +2,10 @@
 
 ####  my name is Asada Phaohom from Thailand!
 
-### [![I'm still Learning](https://skillicons.dev/icons?i=js,html,css,ts,vscode,react,py,mysql,mongodb)](https://skillicons.dev)
+<img src="www.mypetsies.com/blog/app/uploads/2016/09/edfsaf.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" />
 
-![Little Cats](https://www.mypetsies.com/blog/app/uploads/2016/09/edfsaf.jpg)
+
 
 > Keep Learning. Keep Glowing!
 
