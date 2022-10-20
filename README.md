@@ -4,7 +4,7 @@
 
 #### i'm still learning about coding 💬
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,ts,bootstrap,mysql,mongodb,py" />
   </a>
