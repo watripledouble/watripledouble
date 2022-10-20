@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### [![I'm still Learning](https://skillicons.dev/icons?i=js,html,css,ts,py)](https://skillicons.dev)
+
 <!--
 **watripledouble/watripledouble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
