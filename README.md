@@ -1,8 +1,8 @@
 ## Hello Everyone 👋
 
-#### My name is Asada Phaohom BRO!!!
+#### My name is Asada Phaohom.
 
-#### i'm still learning about coding 💬
+#### BROOOOOOOOOOO!!!
 
 <p>
   <a href="https://skillicons.dev">
