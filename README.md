@@ -4,11 +4,14 @@
 
 #### BROOOOOOOOOOO!!!
 
+## Here we go again : 
+<hr>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,ts,nodejs,bootstrap,tailwind,mysql,mongodb,py" />
   </a>
 </p>
+<hr>
 
 ![Crying Cat](https://i.kym-cdn.com/photos/images/original/001/384/545/7b9.jpg)
 
