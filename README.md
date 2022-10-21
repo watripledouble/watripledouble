@@ -16,7 +16,7 @@
 
 [My Personal Facebook](https://web.facebook.com/asada.phaohom.7?_rdc=1&_rdr) 💙
 
-[My Personal Instagram](https://www.instagram.com/rukawa_zz/") ❤
+[My Personal Instagram](https://www.instagram.com/rukawa_zz/) ❤
 
 
 <!--
