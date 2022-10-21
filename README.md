@@ -12,7 +12,7 @@
 
 ![IMAGE ALT TEXT HERE](https://i.kym-cdn.com/photos/images/original/001/384/545/7b9.jpg)
 
-> Keep Learning. Keep Growing!
+> Don't' call it a failure, call it an education!
 
 <!--
 **watripledouble/watripledouble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
