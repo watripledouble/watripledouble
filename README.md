@@ -8,7 +8,7 @@
 <hr>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,php,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=js,html,css," />
   </a>
 </p>
 <hr>
