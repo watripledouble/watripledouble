@@ -17,7 +17,7 @@
 
 > Don't' call it a failure, call it an education!
 
-[My Personal Facebook](https://web.facebook.com/asada.phaohom.7?_rdc=1&_rdr) 💙
+[My Personal Facebook](https://www.facebook.com/asada.phaohom/) 💙
 
 [My Personal Instagram](https://www.instagram.com/rukawa_zz/) ❤
 
